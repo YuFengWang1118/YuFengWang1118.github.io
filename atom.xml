@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://yufengwang1118.github.io/"/>
   <updated>2019-04-04T02:03:50.069Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://yufengwang1118.github.io/</id>
   
   <author>
     <name>观察者</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>震惊，宗梦然竟然。。。</title>
-    <link href="http://yoursite.com/%E9%9C%87%E6%83%8A%EF%BC%8C%E5%AE%97%E6%A2%A6%E7%84%B6%E7%AB%9F%E7%84%B6%E3%80%82%E3%80%82%E3%80%82/"/>
-    <id>http://yoursite.com/震惊，宗梦然竟然。。。/</id>
+    <link href="https://yufengwang1118.github.io/%E9%9C%87%E6%83%8A%EF%BC%8C%E5%AE%97%E6%A2%A6%E7%84%B6%E7%AB%9F%E7%84%B6%E3%80%82%E3%80%82%E3%80%82/"/>
+    <id>https://yufengwang1118.github.io/震惊，宗梦然竟然。。。/</id>
     <published>2019-04-04T02:03:50.000Z</published>
     <updated>2019-04-04T02:03:50.069Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>中文测试</title>
-    <link href="http://yoursite.com/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/"/>
-    <id>http://yoursite.com/中文测试/</id>
+    <link href="https://yufengwang1118.github.io/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/"/>
+    <id>https://yufengwang1118.github.io/中文测试/</id>
     <published>2019-04-04T01:58:19.000Z</published>
     <updated>2019-04-04T01:59:22.503Z</updated>
     
@@ -54,8 +54,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/hello-world/"/>
-    <id>http://yoursite.com/hello-world/</id>
+    <link href="https://yufengwang1118.github.io/hello-world/"/>
+    <id>https://yufengwang1118.github.io/hello-world/</id>
     <published>2019-04-03T08:08:32.410Z</published>
     <updated>2019-04-04T01:57:23.062Z</updated>
     
